@@ -8,13 +8,13 @@ Welcome to my GitHub profile! I'm a Computer Science student passionate about bu
 - 🎓 Computer Science student
 - 💻 Learning Web Development and Software Engineering
 - 🔐 Interested in Cybersecurity , Information Security and Networking
-- 🌱 Continuously learning Java, JavaScript, C and C++
+- 🌱 Continuously learning Java, JavaScript, React, C and C++
 - 🎯 Working towards becoming a skilled software developer
 - 🛠️ Building practical projects and expanding my portfolio
 
 ## 💻 Technologies & Tools
 
-- **Languages:** HTML, CSS, JavaScript,React, Java, C, C++
+- **Languages:** HTML, CSS, JavaScript, React, Java, C, C++
 - **Tools:** Git, GitHub, VS Code
 - **Interests:** Web Development, Software Engineering, Cybersecurity, Networking
 
